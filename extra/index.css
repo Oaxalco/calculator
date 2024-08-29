@@ -1,9 +1,9 @@
-.calculator{
+table{
     border: 1px solid black;
     margin: auto;
 }
 
-.button{
+ input[type= button]{
     width: 100%;
     padding: 20px 40px;
     background-color: navy;
@@ -14,7 +14,7 @@
     border-radius: 5px;
 }
 
-.text{
+input[type= text]{
     padding: 20px 30px;
     font-size: 24px;
     font-weight: normal;
