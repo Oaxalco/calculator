@@ -3,7 +3,7 @@ table{
     margin: auto;
 }
 
- input[type= button]{
+ input[type= "button"]{
     width: 100%;
     padding: 20px 40px;
     background-color: navy;
@@ -14,7 +14,7 @@ table{
     border-radius: 5px;
 }
 
-input[type= text]{
+input[type= "text"]{
     padding: 20px 30px;
     font-size: 24px;
     font-weight: normal;
